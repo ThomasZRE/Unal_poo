@@ -1,4 +1,4 @@
-package Parte2;
+package Actividad3.Parte2;
 
 public class Cuadrado {
     int lado;
@@ -9,12 +9,12 @@ public class Cuadrado {
     }
 
     // Calcula y retorna el area del cuadrado
-    public double calcularArea() {
+    double calcularArea() {
         return lado*lado;
     }
 
     // Calcula y retorna el perimetro del cuadrado
-    public double calcularPerimetro() {
+    double calcularPerimetro() {
         return 4*lado;
     }
 }

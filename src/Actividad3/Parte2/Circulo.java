@@ -1,4 +1,4 @@
-package Parte2;
+package Actividad3.Parte2;
 
 public class Circulo {
     int radio;  // propiedad del circulo
@@ -14,7 +14,7 @@ public class Circulo {
     }
 
     // Calcula y retorna el perimetro
-    public double calcularPerimetro() {
+    double calcularPerimetro() {
         return 2*Math.PI*radio;
     }
 }

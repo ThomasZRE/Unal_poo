@@ -1,4 +1,4 @@
-package Parte2;
+package Actividad3.Parte2;
 
 public class Rectangulo {
     int base;
@@ -11,12 +11,12 @@ public class Rectangulo {
     }
 
     // Calcula y retorna el area
-    public double calcularArea() {
+    double calcularArea() {
         return base*altura;
     }
 
     // Calcula y retorna el perimetro
-    public double calcularPerimetro() {
+    double calcularPerimetro() {
         return  (2*base) + (2*altura);
     }
 }
