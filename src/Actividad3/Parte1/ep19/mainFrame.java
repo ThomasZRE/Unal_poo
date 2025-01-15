@@ -1,7 +1,6 @@
 package Actividad3.Parte1.ep19;
 
 import java.awt.event.ActionEvent;
-import java.util.Scanner;
 
 import javax.swing.AbstractAction;
 import javax.swing.JButton;

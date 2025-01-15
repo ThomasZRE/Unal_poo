@@ -160,9 +160,3 @@ public class VentanaPrincipal{
         new VentanaPrincipal();
     }
 }
-
-
-/* 
- * 
- * 
- */
